@@ -1,2 +1,2 @@
-# pon_de.pon
-.
+# pon_de.pon — A social media platform that combines, YouTube, TikTok, Discord, Reddit and Twitch
+
